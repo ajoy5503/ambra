@@ -481,7 +481,7 @@ img {
 }
 
 .classy-navbar .nav-brand {
-    width: 70px;
+    width: 95px;
     font-size: 0;
 }
 
@@ -1497,6 +1497,21 @@ img {
     width: 60%;
     margin: 0 auto;
     margin-bottom: 30px;
+}
+
+/*  App Landing area css */
+
+.welcome-content.home-4 h3{
+    color: #fff;
+    font-size: 80px;
+    margin-bottom: 50px;
+}
+.welcome-content.home-4 h5{
+    color: #fff;
+}
+
+.product-up-content-text.home-4 p {
+	margin-bottom: 20px;
 }
 
 /* Dark version area css */
